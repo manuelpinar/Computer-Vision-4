@@ -19,7 +19,7 @@ set of data in the dades.mat file. You will find this file in the same place whe
 found this statement This file is a Matlab workspace in which they are defined
 the coordinates of 267 points in the XY plan. You can see in figure 1 the distribution of this points.
 
-![](https://github.com/manuelpinar/Reinforcement-Learning-Project2-Continuous-Control/blob/master/graphic_average.png?raw=true)
+![](https://github.com/manuelpinar/Computer-Vision-4-Classification-Algorithms-/blob/master/figure%201.png?raw=true)
 
 In Figure 2 you can see the same points as in Figure 1, labeled with colors
 according to the class to which they belong originally. Three clouds of points are distinguished
