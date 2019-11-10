@@ -27,3 +27,5 @@ corresponding to three classes in red, green and blue with 84, 119 and 59 points
 respectively. In addition, there are 5 points in magenta that are not associated with any
 class in concrete This second figure can be used as an orientation to know if they are
 Your algorithms work correctly. However, your implementations do not they have to recover exactly the original classes.
+
+![](https://github.com/manuelpinar/Computer-Vision-4-Classification-Algorithms-/blob/master/figure%202.png?raw=true)
